@@ -1,0 +1,3 @@
+C:/Users/notic_v0rm88d/OneDrive/Desktop/TNV/C/AS_TNV PROJECT/cmake-build-debug/CMakeFiles/AS_TNV_PROJECT.dir
+C:/Users/notic_v0rm88d/OneDrive/Desktop/TNV/C/AS_TNV PROJECT/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/notic_v0rm88d/OneDrive/Desktop/TNV/C/AS_TNV PROJECT/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "AS_TNV_PROJECT",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "AS_TNV_PROJECT::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AS_TNV_PROJECT-Debug-3242111cc4468c954c99.json",
+					"name" : "AS_TNV_PROJECT",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/notic_v0rm88d/OneDrive/Desktop/TNV/C/AS_TNV PROJECT/cmake-build-debug",
+		"source" : "C:/Users/notic_v0rm88d/OneDrive/Desktop/TNV/C/AS_TNV PROJECT"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
